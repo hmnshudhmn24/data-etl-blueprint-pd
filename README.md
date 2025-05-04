@@ -25,10 +25,3 @@ This project is an interactive data transformation app built using **Streamlit**
 pip install streamlit pandas
 streamlit run app.py
 ```
-
-## 📸 Screenshots
-> Not included here, but you can add some in your GitHub README using `st.image()` in your app.
-
----
-
-🛠️ Happy Building Data Pipelines!
