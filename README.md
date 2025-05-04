@@ -1,5 +1,5 @@
 
-# 🛠️ Data ETL Blueprint Generator (Pandas-Powered) 🐼
+# 🛠️ Data ETL Blueprint Generator (Pandas-Powered)
 
 This project is an interactive data transformation app built using **Streamlit** and **Pandas**, allowing users to perform data wrangling steps and instantly generate reproducible Python code.
 
